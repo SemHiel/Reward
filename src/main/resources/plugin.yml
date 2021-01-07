@@ -1,0 +1,5 @@
+name: Reward
+version: ${project.version}
+main: me.sequos.reward.Reward
+authors: [ Sequos ]
+description: Reward Plugin Minecraft

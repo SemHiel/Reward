@@ -1,0 +1,14 @@
+no-permission-message: '&cYou do not have permission to execute that command.'
+help-message: '&dsdf'
+kits:
+  PvP:
+    - ==: org.bukkit.inventory.ItemStack
+      type: GOLDEN_APPLE
+    - ==: org.bukkit.inventory.ItemStack
+      type: STAINED_CLAY
+      damage: 6
+    - ==: org.bukkit.inventory.ItemStack
+      type: STONE
+  test:
+    - ==: org.bukkit.inventory.ItemStack
+      type: IRON_SWORD
